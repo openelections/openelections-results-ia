@@ -1,0 +1,8 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,2398,,,,,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,2974,,,,,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,Nominated by Petition,,Iowa,ocd-division/country:us/state:ia,84,,,,,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Iowa,ocd-division/country:us/state:ia,5,,,,True,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,2,,,,,2013
+2015-12-28 20:26:39.241000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,5464,,,,,2013

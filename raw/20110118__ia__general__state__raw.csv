@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,TOTAL,,,,,,,Iowa,ocd-division/country:us/state:ia,7520,,,,,2011
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,SCATTERING,,,,,,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2011
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,UNDER VOTES,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2011
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,OVER VOTES,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2011
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,Jack Whitver,,,,,,,Iowa,ocd-division/country:us/state:ia,4773,,,,,2011
+2015-12-28 20:26:58.266000,ia-2011-01-18-special-general,2011-01-18 00:00:00,2011-01-18 00:00:00,general,certified,True,State Senator,35,John Calhoun,,,,,,,Iowa,ocd-division/country:us/state:ia,2739,,,,,2011

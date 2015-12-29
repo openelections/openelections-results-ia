@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,369,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,1410,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,1782,,,,,2013

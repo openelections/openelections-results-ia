@@ -1,0 +1,8 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,203950,,,,,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,73,,,,,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,8741,,,,,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Write-In,,,,,,,Iowa,ocd-division/country:us/state:ia,204,,,,True,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Alan Aversa,,,,,Nominated by Petition,,Iowa,ocd-division/country:us/state:ia,4466,,,,,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,Dave Loebsack,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,95042,,,,,2012
+2015-12-28 20:41:52.108000,ia-2012-11-06-general,2012-11-06 00:00:00,2012-11-06 00:00:00,general,certified,False,U.S. House of Representatives,2,John Archer,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,95424,,,,,2012

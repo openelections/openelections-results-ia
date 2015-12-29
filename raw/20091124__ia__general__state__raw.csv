@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,Democratic Kirsten Running- Marquardt,,,,,Democratic Party,,Iowa,ocd-division/country:us/state:ia,1527,,,,,2009
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,Republican Joshua Thurston,,,,,Republican Party,,Iowa,ocd-division/country:us/state:ia,420,,,,,2009
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,OVER VOTES,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2009
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,UNDER VOTES,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2009
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,SCATTERING,,,,,,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2009
+2015-12-28 20:27:25.827000,ia-2009-11-24-special-general,2009-11-24 00:00:00,2009-11-24 00:00:00,general,certified,True,State Representative,33,TOTAL,,,,,,,Iowa,ocd-division/country:us/state:ia,1954,,,,,2009

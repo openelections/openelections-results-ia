@@ -1,0 +1,126 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Falls Twp - Plymouth Pct,,31,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Falls Twp - Plymouth Pct,,47,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Falls Twp - Plymouth Pct,,2,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Falls Twp - Plymouth Pct,,0,,,,Write-In,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Falls Twp - Plymouth Pct,,80,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Falls Twp - Rock Falls Pc,,25,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Falls Twp - Rock Falls Pc,,24,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Falls Twp - Rock Falls Pc,,0,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Falls Twp - Rock Falls Pc,,0,,,,Write-In,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Falls Twp - Rock Falls Pc,,49,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Portland / Owen / Dougher,,55,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Portland / Owen / Dougher,,58,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Portland / Owen / Dougher,,1,,,,,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Portland / Owen / Dougher,,0,,,,Write-In,2013
+2015-12-28 20:26:41.579000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Portland / Owen / Dougher,,114,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Absentee,,435,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Absentee,,682,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Absentee,,15,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Absentee,,1,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Absentee,,1133,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Bradford Precinct,,253,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Bradford Precinct,,94,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Bradford Precinct,,2,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Bradford Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Bradford Precinct,,349,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Chickasaw Precinct,,31,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Chickasaw Precinct,,27,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Chickasaw Precinct,,0,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Chickasaw Precinct,,1,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Chickasaw Precinct,,59,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Dayton-Richland Precinct,,55,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Dayton-Richland Precinct,,20,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Dayton-Richland Precinct,,0,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Dayton-Richland Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Dayton-Richland Precinct,,75,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Deerfield-Washington 2 Precinct,,63,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Deerfield-Washington 2 Precinct,,31,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Deerfield-Washington 2 Precinct,,7,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Deerfield-Washington 2 Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Deerfield-Washington 2 Precinct,,101,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Dresden-Frederickburg Precinct,,105,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Dresden-Frederickburg Precinct,,59,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Dresden-Frederickburg Precinct,,7,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Dresden-Frederickburg Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Dresden-Frederickburg Precinct,,171,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Jacksonville-Utica Precinct,,32,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Jacksonville-Utica Precinct,,24,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Jacksonville-Utica Precinct,,1,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Jacksonville-Utica Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Jacksonville-Utica Precinct,,57,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,New Hampton Rural Precinct,,62,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,New Hampton Rural Precinct,,22,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,New Hampton Rural Precinct,,0,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,New Hampton Rural Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,New Hampton Rural Precinct,,84,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,New Hampton Ward 1,,33,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,New Hampton Ward 1,,40,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,New Hampton Ward 1,,1,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,New Hampton Ward 1,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,New Hampton Ward 1,,74,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,New Hampton Ward 2,,26,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,New Hampton Ward 2,,30,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,New Hampton Ward 2,,3,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,New Hampton Ward 2,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,New Hampton Ward 2,,59,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,New Hampton Ward 3,,32,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,New Hampton Ward 3,,56,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,New Hampton Ward 3,,3,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,New Hampton Ward 3,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,New Hampton Ward 3,,91,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,New Hampton Ward 4,,43,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,New Hampton Ward 4,,71,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,New Hampton Ward 4,,1,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,New Hampton Ward 4,,1,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,New Hampton Ward 4,,116,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Stapleton Precinct,,30,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Stapleton Precinct,,65,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Stapleton Precinct,,0,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Stapleton Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Stapleton Precinct,,95,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Washington 1 Precinct,,25,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Washington 1 Precinct,,34,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Washington 1 Precinct,,2,,,,,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Washington 1 Precinct,,0,,,,Write-In,2013
+2015-12-28 20:26:43.904000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Washington 1 Precinct,,61,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Charles City Corp/CC1,,90,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Charles City Corp/CC1,,103,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Charles City Corp/CC1,,5,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Charles City Corp/CC1,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Charles City Corp/CC1,,198,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Charles City Corp/CC2,,111,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Charles City Corp/CC2,,126,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Charles City Corp/CC2,,5,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Charles City Corp/CC2,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Charles City Corp/CC2,,242,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Charles City Corp/CC3,,59,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Charles City Corp/CC3,,132,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Charles City Corp/CC3,,5,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Charles City Corp/CC3,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Charles City Corp/CC3,,196,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Floyd-Cedar-Niles,,113,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Floyd-Cedar-Niles,,99,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Floyd-Cedar-Niles,,3,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Floyd-Cedar-Niles,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Floyd-Cedar-Niles,,215,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Rock Grove-Rudd,,73,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Rock Grove-Rudd,,100,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Rock Grove-Rudd,,4,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Rock Grove-Rudd,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Rock Grove-Rudd,,177,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Rockford-Ulster,,80,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Rockford-Ulster,,34,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Rockford-Ulster,,2,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Rockford-Ulster,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Rockford-Ulster,,116,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,Scott-Union-Pleasant Grove,,54,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,Scott-Union-Pleasant Grove,,48,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,Scott-Union-Pleasant Grove,,1,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,Scott-Union-Pleasant Grove,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,Scott-Union-Pleasant Grove,,103,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Dennis Litterer,,,,,,,St Charles-Riverton,,117,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Todd Prichard,,,,,,,St Charles-Riverton,,80,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Craig Clark,,,,,,,St Charles-Riverton,,4,,,,,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,Write-In,,,,,,,St Charles-Riverton,,0,,,,Write-In,2013
+2015-12-28 20:26:47.112000,ia-2013-01-22-special-general,2013-01-22 00:00:00,2013-01-22 00:00:00,general,certified,True,State Representative,52,TOTALS,,,,,,,St Charles-Riverton,,201,,,,,2013

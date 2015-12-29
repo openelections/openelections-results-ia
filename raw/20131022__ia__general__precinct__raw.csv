@@ -1,0 +1,103 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 48,,8,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 48,,3,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 48,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 48,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 48,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 48,,11,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 49,,16,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 49,,2,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 49,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 49,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 49,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 49,,18,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 50,,58,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 50,,35,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 50,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 50,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 50,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 50,,93,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 51,,25,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 51,,21,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 51,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 51,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 51,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 51,,46,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 52,,41,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 52,,11,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 52,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 52,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 52,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 52,,52,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 53,,18,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 53,,16,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 53,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 53,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 53,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 53,,34,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 54,,20,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 54,,7,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 54,,1,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 54,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 54,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 54,,28,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 67,,22,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 67,,7,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 67,,1,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 67,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 67,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 67,,30,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 69,,108,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 69,,41,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 69,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 69,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 69,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 69,,149,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 70,,46,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 70,,16,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 70,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 70,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 70,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 70,,62,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 71,,108,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 71,,48,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 71,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 71,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 71,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 71,,156,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 73,,49,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 73,,24,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 73,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 73,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 73,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 73,,73,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 74,,30,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 74,,23,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 74,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 74,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 74,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 74,,53,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 75,,28,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 75,,45,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 75,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 75,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 75,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 75,,73,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Des Moines 76,,59,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Des Moines 76,,20,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Des Moines 76,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Des Moines 76,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Des Moines 76,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Des Moines 76,,79,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Special,,30,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Special,,6,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Special,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Special,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Special,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Absentee,,744,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Absentee,,44,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Absentee,,0,,,,Write-In,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Absentee,,0,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Absentee,,1,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Special,,36,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Absentee,,789,,,,,2013

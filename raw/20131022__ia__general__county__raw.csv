@@ -1,0 +1,13 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Polk,,1782,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Polk,,1,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Polk,,0,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Polk,ocd-division/country:us/state:ia/county:polk,369,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Polk,ocd-division/country:us/state:ia/county:polk,1410,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Polk,ocd-division/country:us/state:ia/county:polk,2,,,,True,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Under Votes,,,,,,,Polk,ocd-division/country:us/state:ia/county:polk,0,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Over Votes,,,,,,,Polk,ocd-division/country:us/state:ia/county:polk,1,,,,,2013
+2015-12-28 20:26:34.090000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Total,,,,,,,Polk,ocd-division/country:us/state:ia/county:polk,1782,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Brian Meyer,,,,,Democratic,,Polk,,1410,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Michael Young,,,,,Republican,,Polk,,369,,,,,2013
+2015-12-28 20:26:36.604000,ia-2013-10-22-special-general,2013-10-22 00:00:00,2013-10-22 00:00:00,general,certified,True,State Representative,33,Write-In,,,,,,,Polk,,2,,,,Write-In,2013

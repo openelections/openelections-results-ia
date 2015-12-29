@@ -1,0 +1,7 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,9523,,,,,2012
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2012
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2012
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Write-In,,,,,,,Iowa,ocd-division/country:us/state:ia,8,,,,True,2012
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Desmund Adams,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,4136,,,,,2012
+2015-12-28 20:41:41.877000,ia-2012-12-11-special-general,2012-12-11 00:00:00,2012-12-11 00:00:00,general,certified,True,State Senator,22,Charles Schneider,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,5378,,,,,2012

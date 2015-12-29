@@ -1,0 +1,8 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,23849,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Scattering,,,,,,,Iowa,ocd-division/country:us/state:ia,9,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,42,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,1,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Jon Tack,,,,,,,Iowa,ocd-division/country:us/state:ia,151,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Liz Mathis,,,,,,,Iowa,ocd-division/country:us/state:ia,13324,,,,,2011
+2015-12-28 20:26:53.149000,ia-2011-11-08-special-general,2011-11-08 00:00:00,2011-11-08 00:00:00,general,certified,True,State Senate,18,Cindy Golding,,,,,,,Iowa,ocd-division/country:us/state:ia,10322,,,,,2011
