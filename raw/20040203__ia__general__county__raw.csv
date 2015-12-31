@@ -1,0 +1,4 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-31 09:40:03.591000,ia-2004-02-03-special-general,2004-02-03 00:00:00,2004-02-03 00:00:00,general,certified,True,State Senate,30,Write-In,,,,,,,Polk,ocd-division/country:us/state:ia/county:polk,239,,,,True,2004
+2015-12-31 09:40:03.591000,ia-2004-02-03-special-general,2004-02-03 00:00:00,2004-02-03 00:00:00,general,certified,True,State Senate,30,Pat Ward,,,,,Republican,,Polk,ocd-division/country:us/state:ia/county:polk,4037,,,,,2004
+2015-12-31 09:40:03.591000,ia-2004-02-03-special-general,2004-02-03 00:00:00,2004-02-03 00:00:00,general,certified,True,State Senate,30,Alicia Claypool,,,,,Democrat,,Polk,ocd-division/country:us/state:ia/county:polk,3073,,,,,2004
