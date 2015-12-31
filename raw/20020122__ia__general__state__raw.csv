@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-31 10:04:58.447000,ia-2002-01-22-special-general,2002-01-22 00:00:00,2002-01-22 00:00:00,general,certified,True,Iowa House,28,Totals,,,,,,,Iowa,ocd-division/country:us/state:ia,5631,,,,,2002
+2015-12-31 10:04:58.447000,ia-2002-01-22-special-general,2002-01-22 00:00:00,2002-01-22 00:00:00,general,certified,True,Iowa House,28,Scattering,,,,,,,Iowa,ocd-division/country:us/state:ia,3,,,,,2002
+2015-12-31 10:04:58.447000,ia-2002-01-22-special-general,2002-01-22 00:00:00,2002-01-22 00:00:00,general,certified,True,Iowa House,28,David Lalk,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,2721,,,,,2002
+2015-12-31 10:04:58.447000,ia-2002-01-22-special-general,2002-01-22 00:00:00,2002-01-22 00:00:00,general,certified,True,Iowa House,28,Jackie Reeder,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,2907,,,,,2002

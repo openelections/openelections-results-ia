@@ -1,0 +1,5 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-31 10:04:57.201000,ia-2002-02-19-special-general,2002-02-19 00:00:00,2002-02-19 00:00:00,general,certified,True,Iowa Senate,39,Totals,,,,,,,Iowa,ocd-division/country:us/state:ia,4921,,,,,2002
+2015-12-31 10:04:57.201000,ia-2002-02-19-special-general,2002-02-19 00:00:00,2002-02-19 00:00:00,general,certified,True,Iowa Senate,39,Scattering,,,,,,,Iowa,ocd-division/country:us/state:ia,13,,,,,2002
+2015-12-31 10:04:57.201000,ia-2002-02-19-special-general,2002-02-19 00:00:00,2002-02-19 00:00:00,general,certified,True,Iowa Senate,39,DAVID G. LORD,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,3475,,,,,2002
+2015-12-31 10:04:57.201000,ia-2002-02-19-special-general,2002-02-19 00:00:00,2002-02-19 00:00:00,general,certified,True,Iowa Senate,39,STEVE SHELLEY,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,1433,,,,,2002
