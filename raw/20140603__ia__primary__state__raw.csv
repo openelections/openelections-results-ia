@@ -1,0 +1,521 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Sam Clovis,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,28418,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Joni Ernst,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,88535,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Mark Jacobs,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,26523,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Scott Schaben,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2233,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Matt Whitaker,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,11884,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,155,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4777,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,83,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,162608,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Bruce Braley,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,62600,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,545,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,9227,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,16,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,U.S. Senator,,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,72388,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Terry E. Branstad,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,129752,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Tom Hoefling,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,26299,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,294,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6224,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,20,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Governor,,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,162589,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of State,,Brad Anderson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,57332,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of State,,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,193,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of State,,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,14841,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of State,,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,15,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of State,,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,72381,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Mary Mosiman,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,115393,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,435,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,46495,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,162326,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Jonathan Neiderbach,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,55468,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,262,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,16632,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,15,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Auditor of State,,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,72377,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Treasurer of State,,Michael L. Fitzgerald,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,60551,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Treasurer of State,,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,165,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Treasurer of State,,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,11662,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Treasurer of State,,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,13,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Treasurer of State,,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,72391,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of Agriculture,,Sherrie Taha,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,55135,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of Agriculture,,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,298,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of Agriculture,,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,16927,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of Agriculture,,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,12,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,Secretary of Agriculture,,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,72372,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,1,David Johnson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4915,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,1,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,16,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,1,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1555,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,1,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,1,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6486,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,9,Jason Schultz,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3904,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,9,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,11,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,9,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1240,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,9,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,9,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,5155,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,13,Julian B. Garrett,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3220,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,13,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,20,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,13,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,761,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,13,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,13,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4001,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Crystal Bruntz,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1771,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Jeremy Filbert,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,833,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,5,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,673,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,15,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3282,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Tony Bisignano,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1443,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Nathan Blake,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1425,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Ned F. Chiodo,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1002,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,26,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,17,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3902,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Brett H. Nelson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,635,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Jack Whitver,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2362,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,727,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,19,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3730,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Jeremy Davis,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1465,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,11,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,488,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1964,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Cynthia Oppedal Paschen,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,598,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Herman C. Quirmbach,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1593,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,14,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,23,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2206,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Shawn Dietz,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1938,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Timothy Junker,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1212,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,8,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,629,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3787,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Amanda Ragan,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,981,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,86,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,27,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1070,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,James R. Budde,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1262,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,James A. Heavens,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,901,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,647,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2814,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Tod R. Bowman,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1920,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,672,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,29,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2596,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,33,Robert M. Hogg,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3754,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,33,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,19,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,33,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,531,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,33,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,33,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4304,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Wally E. Horn,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1644,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Lance Lefebure,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,891,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,120,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,35,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2659,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,37,Robert E. Dvorsky,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2343,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,37,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,15,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,37,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,359,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,37,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,37,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2718,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Bob Anderson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,947,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Michael D. Moore,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1231,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Royce W. Phillips,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,515,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,362,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3063,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Richard Gilmore,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,338,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Kevin Kinney,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1162,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,149,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,39,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1654,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,43,Joe Bolkcom,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3663,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,43,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,14,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,43,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,564,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,43,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,43,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4242,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Mark Riley,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,135,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Joe M. Seng,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,614,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,15,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,45,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,764,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,49,Brian Schmidt,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2205,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,49,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,49,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,560,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,49,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Senator,49,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2771,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Kevin T. Klaassen,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1314,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,John H. Wills,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1891,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Kevin Wolfswinkel,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1246,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,129,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,1,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4582,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,3,Dan Huseman,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2682,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,3,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,5,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,3,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,780,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,3,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,3,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3467,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,4,Dwayne Alons,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2377,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,4,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,4,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,342,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,4,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,4,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2723,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,5,Chuck Soderberg,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1813,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,5,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,5,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,578,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,5,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,5,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2397,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Tedd Gassman,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1188,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,15,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,219,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1422,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Dave Grussing,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,339,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,127,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,7,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,470,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Henry V. Rayhons,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1750,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,16,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,465,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2231,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Nancy Paule Huisinga,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,230,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,40,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,8,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,271,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,11,Gary Worthan,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1727,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,11,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,8,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,11,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,486,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,11,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,11,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2221,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,14,David Dawson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,530,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,14,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,14,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,54,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,14,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,14,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,586,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,15,Charlie McConkey,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,168,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,15,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,15,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,20,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,15,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,15,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,191,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Mary Ann Hanusa,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,828,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,141,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,976,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Marti D. Nerenstone,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,190,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,18,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,16,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,208,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,17,Kenneth Mertes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,355,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,17,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,17,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,120,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,17,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,17,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,475,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Steven Holt,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1672,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Dillon D. Malone,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,272,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,533,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,18,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2478,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,James L. Butler,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,683,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,Eric Durbin,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,634,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,409,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,26,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1730,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,27,Fred P. Diehl,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,293,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,27,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,27,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,53,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,27,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,27,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,354,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,29,Patrick Payton,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1093,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,29,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,29,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,435,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,29,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,29,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1532,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,31,Rick L. Olson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,246,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,31,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,31,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,25,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,31,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,31,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,277,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,32,Ruth Ann Gaines,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,255,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,32,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,32,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,35,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,32,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,32,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,291,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,34,Bruce L. Hunter,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1477,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,34,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,34,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,534,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,34,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,34,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2015,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,36,Marti Anderson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,512,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,36,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,36,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,47,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,36,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,36,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,561,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,37,John Landon,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1508,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,37,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,27,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,37,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,713,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,37,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,37,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2248,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,38,Kevin Koester,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1105,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,38,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,9,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,38,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,368,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,38,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,38,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1482,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Peter Cownie,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1480,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,11,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,525,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2016,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Daniel Fessler,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,245,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,36,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,42,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,282,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Chris Hagenow,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1822,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,11,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,733,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2566,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Nicholas Dreeszen,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,87,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Kim Robinson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,277,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,43,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,43,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,409,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,46,Lisa K. Heddens,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1039,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,46,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,46,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,93,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,46,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,46,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1133,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Hans Erickson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,175,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Mark J. Trueblood,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,135,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,51,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,47,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,363,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,48,Robert Bacon,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1294,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,48,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,48,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,451,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,48,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,48,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1748,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,49,Kevin Ericson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,213,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,49,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,49,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,46,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,49,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,49,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,260,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,51,Laura Hubka,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,453,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,51,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,51,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,69,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,51,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,51,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,526,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,53,Sharon Steckman,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,487,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,53,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,53,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,48,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,53,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,53,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,537,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,54,Linda Upmeyer,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2419,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,54,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,16,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,54,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,491,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,54,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,54,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2926,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Darrel Branhagen,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,958,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,6,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,255,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1219,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Rick Edwards,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,728,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,102,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,55,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,832,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Ryan J. Kilburg,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,827,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,421,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1251,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Nancy A. Dunkel,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1184,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,431,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,57,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1619,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Walt Rogers,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1256,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Jason Welch,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,338,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,48,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,60,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1646,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Nathan Bolton,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,562,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,8,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,309,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,879,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Timi Brown-Powers,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,835,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,M. Brad Condon,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,195,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Andrew Miller,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,194,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,292,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,5,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,61,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1523,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,62,Deborah L. Berry,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,610,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,62,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,62,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,94,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,62,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,62,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,705,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Sandy Salmon,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1349,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,9,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,155,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1513,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Teresa Meyer,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,571,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,67,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,63,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,638,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,64,Craig Johnson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1033,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,64,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,64,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,232,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,64,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,64,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1268,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,67,Kraig Paulsen,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1364,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,67,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,67,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,324,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,67,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,67,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1691,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,68,Daniel Lundby,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1215,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,68,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,68,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,184,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,68,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,68,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1402,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,71,Jane A. Jech,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1423,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,71,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,14,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,71,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,334,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,71,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,71,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1771,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Bobby Kaufmann,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1286,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,8,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,194,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1488,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Dennis Boedeker,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,517,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,David Johnson,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,550,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,141,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,3,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,73,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1213,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,74,Dave Jacoby,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1343,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,74,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,9,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,74,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,153,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,74,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,74,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1505,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,76,David Maxwell,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1633,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,76,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,9,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,76,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,347,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,76,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,76,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1989,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,77,Sally Stutsman,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,927,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,77,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,77,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,212,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,77,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,77,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1146,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,79,Guy Vander Linden,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1817,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,79,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,10,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,79,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,404,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,79,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,79,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2231,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Dave Heaton,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1307,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Ralph Holmstrom,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,569,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,53,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,84,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1932,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,85,Vicki Lensing,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2010,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,85,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,12,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,85,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,340,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,85,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,85,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2363,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,86,Mary Mascher,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1619,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,86,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,7,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,86,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,252,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,86,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,86,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1879,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,87,Dennis M. Cohoon,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,557,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,87,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,87,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,129,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,87,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,87,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,688,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,90,Cindy Winckler,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,319,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,90,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,90,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,46,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,90,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,90,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,366,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Gary Carlson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1056,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Mark Cisneros,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,676,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,107,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,91,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1840,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Ross C. Paustian,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,957,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,224,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1184,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Frank B. Wood,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,220,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,20,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,92,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,242,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Mark A. Ross,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,994,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,392,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1390,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Phyllis Thede,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,316,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,15,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,93,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,331,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,94,Linda J. Miller,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1612,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,94,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,5,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,94,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,334,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,94,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,94,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1951,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,95,Quentin Stanerson,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1199,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,95,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,95,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,421,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,95,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,95,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1624,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,97,Norlin Mommsen,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1302,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,97,Write-In,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,2,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,97,Under Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,433,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,97,Over Votes,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,97,Total,,,,,Rep,,Iowa,ocd-division/country:us/state:ia,1737,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Steve Drahozal,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,926,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Abby Finkenauer,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1269,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,197,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,99,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,2394,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,100,Charles Isenhart,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1384,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,100,Write-In,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,4,,,,True,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,100,Under Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,361,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,100,Over Votes,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:14:18.943000,ia-2014-06-03-primary,2014-06-03 00:00:00,2014-06-03 00:00:00,primary,certified,False,State Rep.,100,Total,,,,,Dem,,Iowa,ocd-division/country:us/state:ia,1749,,,,,2014

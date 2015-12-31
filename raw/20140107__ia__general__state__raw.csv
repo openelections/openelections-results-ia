@@ -1,0 +1,19 @@
+updated_at,id,start_date,end_date,election_type,result_type,special,office,district,name_raw,last_name,first_name,suffix,middle_name,party,parent_jurisdiction,jurisdiction,division,votes,votes_type,total_votes,winner,write_in,year
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,TOTAL,,,,,,,Iowa,ocd-division/country:us/state:ia,949,,,,,2014
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,SCATTERING,,,,,,,Iowa,ocd-division/country:us/state:ia,3,,,,True,2014
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,UNDER VOTE,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,OVER VOTE,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,Pam Deichmann,,,,,,,Iowa,ocd-division/country:us/state:ia,279,,,,,2014
+2015-12-29 14:19:56.962000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,Stan Gustafson,,,,,,,Iowa,ocd-division/country:us/state:ia,667,,,,,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,TOTAL,,,,,,,Iowa,ocd-division/country:us/state:ia,1386,,,,,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,SCATTERING,,,,,,,Iowa,ocd-division/country:us/state:ia,11,,,,True,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,UNDER VOTE,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,OVER VOTE,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,Pam Deichmann,,,,,,,Iowa,ocd-division/country:us/state:ia,415,,,,,2014
+2015-12-29 14:19:56.203000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State House,25,Stan Gustafson,,,,,,,Iowa,ocd-division/country:us/state:ia,960,,,,,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Total,,,,,,,Iowa,ocd-division/country:us/state:ia,2335,,,,,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Over Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Under Votes,,,,,,,Iowa,ocd-division/country:us/state:ia,0,,,,,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Write-In,,,,,,,Iowa,ocd-division/country:us/state:ia,14,,,,True,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Pam Deichmann,,,,,Democratic,,Iowa,ocd-division/country:us/state:ia,694,,,,,2014
+2015-12-29 14:19:55.500000,ia-2014-01-07-special-general,2014-01-07 00:00:00,2014-01-07 00:00:00,general,certified,True,State Representative,25,Stan Gustafson,,,,,Republican,,Iowa,ocd-division/country:us/state:ia,1627,,,,,2014
